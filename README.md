@@ -15,7 +15,7 @@ I'm Shahzaman. I love to learn and explore the internet. I work as an android de
 
 ---
 
-### 🤝🏻 Connect, Follow, Subscribe
+### 🤝🏻 Connect, Follow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-zaman-rai/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srZamanRai)
