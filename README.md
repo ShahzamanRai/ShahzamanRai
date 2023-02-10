@@ -12,7 +12,7 @@ I'm Shahzaman. I love to learn and explore the internet. I work as an android de
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently study at University of Okara.
+- 🔭 I’m currently studying at University of Okara.
 - 🌱 I’m currently learning Android core. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an tech geek, amatuer singer, and movie lover. I also play snooker!
