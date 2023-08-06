@@ -4,19 +4,28 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
-I'm Shahzaman. I love to learn and explore the internet. I work as an android developer during the day. At night, I switch into my reader mode - read articles about software development and engineering! 
+I'm Shahzaman, a passionate learner who thrives on exploring the vast realm of the internet. By day, I'm an Android developer, crafting innovative digital solutions. However, when night falls, I seamlessly transition into reader mode, diving into insightful articles about software development and engineering.
+
+What I Do:
+- Android Developer by day, creating innovative apps.
+- Nighttime reader, delving into software development insights.
+
+Connect with Me:
+Catch a glimpse of my coding journey here on GitHub, where I actively share my projects and contributions. Let's connect and learn together!
+
 
 <a href="https://www.buymeacoffee.com/shahzamanRai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
 ### ⚡️ A quick introduction
-
-- 🔭 I’m currently studying at University of Okara.
-- 🌱 I’m currently learning core Android. 
-- 💼 I'm open to freelancing projects.
-- 🤟🏻 I'm an tech geek, amatuer singer, and movie lover. I also play snooker!
-
+  - 🎓 University of Okara student immersing myself in core Android development.
+  - 💼 Open to freelance projects and collaborations.
+  - 🤖 Passionate about technology, with a knack for coding and problem-solving.
+  - 🎥 Movie buff, always seeking the next cinematic masterpiece.
+  - 🎱 Casual snooker player, combining strategy and precision on the table.
+  - 💓 A romantic at heart, finding joy in simple gestures and heartfelt expressions.
+  - 💞 Firm believer in the power of kindness and compassion.
 ---
 
 ### 🤝🏻 Connect, Follow
@@ -27,11 +36,6 @@ I'm Shahzaman. I love to learn and explore the internet. I work as an android de
 
 ---
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/31viqajtn7nkausazijswo5ufasm)
-
----
 
 ### 💻 Languages, Frameworks, Tools
 
