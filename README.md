@@ -45,7 +45,7 @@ Catch a glimpse of my coding journey here on GitHub, where I actively share my p
 
 <p float="left">
 
-<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />       
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img style="padding:5px;" align="center" alt="Material-Design" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
