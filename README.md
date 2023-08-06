@@ -3,13 +3,17 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-
-I'm Shahzaman, a passionate learner who thrives on exploring the vast realm of the internet. By day, I'm an Android developer, crafting innovative digital solutions. However, when night falls, I seamlessly transition into reader mode, diving into insightful articles about software development and engineering.
-
-What I Do:
-- Android Developer by day, creating innovative apps.
-- Nighttime reader, delving into software development insights.
-
+### Hi there 👋
+  - 👂 My name is Shahzaman.
+  - 👩 Pronouns: He/Him.
+  - 🔭 I’m currently working on innovative Android app projects.
+  - 🌱 I’m constantly learning and evolving in the world of Android development.
+  - 🤝 I’m looking to collaborate on open-source Android projects.
+  - 🤔 I’m looking for help with advanced UI/UX design for mobile apps.
+  - 💬 Ask me about anything related to Android development and tech.
+  - 📫 How to reach me: Connect with me on LinkedIn.
+  - ❤️ I love exploring new coding challenges and crafting elegant solutions.
+  - ⚡ Fun fact: I breathe, dream, and embrace the world of Linux as my digital habitat!
 Catch a glimpse of my coding journey here on GitHub, where I actively share my projects and contributions. Let's connect and learn together!
 
 
@@ -17,14 +21,14 @@ Catch a glimpse of my coding journey here on GitHub, where I actively share my p
 
 ---
 
-### ⚡️ A quick introduction
-  - 🎓 University of Okara student immersing myself in core Android development.
-  - 💼 Open to freelance projects and collaborations.
-  - 🤖 Passionate about technology, with a knack for coding and problem-solving.
-  - 🎥 Movie buff, always seeking the next cinematic masterpiece.
-  - 🎱 Casual snooker player, combining strategy and precision on the table.
-  - 💓 A romantic at heart, finding joy in simple gestures and heartfelt expressions.
-  - 💞 Firm believer in the power of kindness and compassion.
+### 🌟 Exploring Beyond the Code
+  - 🎓 Nurturing my Android development skills as a University of Okara student.
+  - 💼 Open to exciting freelance projects and valuable collaborations.
+  - 🤖 Tech enthusiast with an insatiable curiosity for coding and creative solutions.
+  - 🎥 Dedicated movie buff, always in pursuit of the next cinematic masterpiece.
+  - 🎱 Unwinding through casual snooker games, fusing strategy with precision.
+  - 💓 Embracing my inner romantic, finding joy in life's simple yet heartfelt moments.
+  - 💞 Strong advocate for the transformative power of kindness and compassion.
 ---
 
 ### 🤝🏻 Connect, Follow
