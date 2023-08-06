@@ -11,7 +11,7 @@ What I Do:
 - Nighttime reader, delving into software development insights.
 
 Connect with Me:
-Catch a glimpse of my coding journey here on GitHub, where I actively share my projects and contributions. Let's connect and learn together!
+- Catch a glimpse of my coding journey here on GitHub, where I actively share my projects and contributions. Let's connect and learn together!
 
 
 <a href="https://www.buymeacoffee.com/shahzamanRai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
