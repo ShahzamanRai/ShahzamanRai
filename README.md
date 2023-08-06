@@ -2,7 +2,8 @@
 
 ![Profile Banner](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### 👋 Hi there
+
+###  Hi there 👋 
 I'm Shahzaman, an Android developer with a passion for innovation and a knack for solving tech puzzles. By day, I'm crafting sleek Android apps; by night, I'm an open-source explorer and Linux aficionado.
 
 Let's connect, collaborate, and learn together!
@@ -12,6 +13,7 @@ Let's connect, collaborate, and learn together!
 ---
 
 ### ⚡️ A quick introduction
+
 - 🎓 University of Okara student immersing myself in core Android development.
 - 💼 Open to freelance projects and collaborations.
 - 🤖 Tech enthusiast with an insatiable curiosity for coding and creative solutions.
