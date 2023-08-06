@@ -14,6 +14,7 @@
   - 📫 How to reach me: Connect with me on LinkedIn.
   - ❤️ I love exploring new coding challenges and crafting elegant solutions.
   - ⚡ Fun fact: I breathe, dream, and embrace the world of Linux as my digital habitat!
+    
 Catch a glimpse of my coding journey here on GitHub, where I actively share my projects and contributions. Let's connect and learn together!
 
 
