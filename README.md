@@ -50,5 +50,5 @@ Let's connect, collaborate, and learn together!
 ---
 
 ### 📈 GitHub Stats
-![Shahzaman's github stats](https://github-readme-stats.vercel.app/api?username=ShahzamanRai&count_private=true&show_icons=true)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahzamanRai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahzamanRai&theme=github_dark)
